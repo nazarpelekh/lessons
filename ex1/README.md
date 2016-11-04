@@ -1,3 +1,2 @@
-03_project_js_basics
-
-Create reverce of string
+Alert reverce function
+example: in "hello my friend" out "dneirf ym olleH"
