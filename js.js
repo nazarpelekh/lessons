@@ -4,9 +4,8 @@ function reverce(a) {
 //     b.unshift(b[b.length-1]);
     for(i = b.length, i > 0, i--) {
         c.push(b[i]); 
-        return c;
-        alert(c);
     }
+    alert(c);
     
 }
 
