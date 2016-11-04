@@ -1,11 +1,12 @@
 function reverce(a) {
     var b = a.split('');
+    var c;
 //     b.unshift(b[b.length-1]);
     for(i = b.length, i > 0, i--) {
-        b[i].push(); 
-        return b;
+        c.push(b[i]); 
+        return c;
     }
-    alert(b);
+    alert(c);
 }
 
 reverce('Hello my friend');
