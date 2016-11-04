@@ -1,6 +1,6 @@
 function reverce(a) {
-    var b = a.split(" ");
-    b.unshift(b[b.length-1]);
+    var b = a.split('');
+//     b.unshift(b[b.length-1]);
     alert(b);
 }
 
