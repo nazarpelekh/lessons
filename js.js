@@ -3,9 +3,9 @@ function reverce(a) {
     var c = [];
 //     b.unshift(b[b.length-1]);
     for(i = b.length; i > 0; i--) {
-        c.push(b[i]); 
+        c.push(b[i]);
     }
-    alert(b);
+    alert(c);
     
 }
 
