@@ -3,6 +3,7 @@ function reverce(a) {
 //     b.unshift(b[b.length-1]);
     for(i = a.length, i > 0, i--) {
         b[i].push(); 
+        return b;
     }
     alert(b);
 }
