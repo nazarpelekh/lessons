@@ -5,7 +5,7 @@ function reverce(a) {
     for(i = b.length, i > 0, i--) {
         c.push(b[i]); 
     }
-    alert(c);
+    alert(b);
     
 }
 
