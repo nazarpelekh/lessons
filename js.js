@@ -5,8 +5,9 @@ function reverce(a) {
     for(i = b.length, i > 0, i--) {
         c.push(b[i]); 
         return c;
+        alert(c);
     }
-    alert(c);
+    
 }
 
 reverce('Hello my friend');
